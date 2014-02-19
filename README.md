@@ -4,7 +4,11 @@
   
 ## Features
 
-  * Check out the grunt file.
+  * Live reloads javascript, sass, *.phtml and *.php files on the fly.
+  
+## Install
+
+  * gem install bootstrap-sass
   
 ## List of todo items:
 
