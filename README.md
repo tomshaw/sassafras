@@ -1,6 +1,6 @@
 # Sassafras
   
-  A Zend Framework 2 Twitter Bootstrap SASS quick start.
+  A Zend Framework 2 Twitter Bootstrap SASS quick start boilerplate application.
   
 ## Features
 
