@@ -22,4 +22,4 @@ Email: tom@urlrider.com
 
 (The MIT License)
 
-Copyright (c) 2012 Tom Shaw &lt; tom@urlrider.com&gt;
+Copyright (c) 2012 Tom Shaw &lt;tom@urlrider.com&gt;
