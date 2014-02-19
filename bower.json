@@ -1,0 +1,23 @@
+{
+    "name": "Notify Me",
+    "version": "1.0.0",
+    "main": "public/css/application.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "jquery": "latest",
+        "jquery-ui": "latest",
+        "underscore": "latest",
+        "backbone": "latest",
+        "requirejs": "latest",
+        "bootstrap-sass": "latest",
+        "html5shiv": "latest",
+        "handlebars": "latest",
+        "x-editable": "latest"
+    },
+    "devDependencies": {
+
+    }
+}

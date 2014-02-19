@@ -1,0 +1,17 @@
+@import "bootstrap";
+
+body {
+   padding-top: 50px;
+   padding-bottom: 15px;
+}
+
+footer {
+    margin-top: 40px;
+    .container {
+        background-color: green;
+    }
+    p {
+        margin: 10px 5px;
+        color: #fff;
+    }
+}

@@ -1,0 +1,13 @@
+nbproject
+._*
+.~lock.*
+.buildpath
+.DS_Store
+node_modules/*
+.idea
+.project
+.settings
+.sass-cache
+composer.lock
+vendor/bin
+public/js/vendor/*
