@@ -8,6 +8,9 @@
   
 ## Install
 
+  * composer self-update composer install
+  * npm install
+  * bower install
   * gem install bootstrap-sass
   
 ## List of todo items:
