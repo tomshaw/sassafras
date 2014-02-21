@@ -28,11 +28,12 @@
   "devDependencies": {
     "nodeunit": "0.8.2",
     "grunt": "latest",
-	"matchdep": "~0.1.2",
-    "grunt-contrib-jshint": "latest",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-concat": "latest",
     "grunt-contrib-uglify": "latest",
     "grunt-contrib-watch": "latest",
-    "grunt-contrib-compass": "latest"
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-compress": "~0.7.0"
   }
 }
