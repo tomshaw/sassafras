@@ -28,7 +28,7 @@ module.exports = function(grunt) {
       },
       my_target: {
         files: {
-          'public/js/script.min.js': ['public/js/script.js']
+          'public/js/script.min.js': ['public/js/app/script.js']
         }
       }
     },
@@ -40,7 +40,7 @@ module.exports = function(grunt) {
           'public/js/vendor/bootstrap-sass/dist/js/bootstrap.min.js',
           'public/js/app/script.js'
         ],
-        dest: 'public/js/script.js'
+        dest: 'public/js/script.min.js'
       }
     },
     watch: {

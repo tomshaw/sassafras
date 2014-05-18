@@ -8,10 +8,18 @@
   
 ## Install
 
-  * composer self-update composer install
   * npm install
+  * composer self-update composer install
+  * npm install -g grunt-cli
+  * npm install grunt --save-dev
   * bower install
   * gem install bootstrap-sass
+  
+## Live Reload
+  
+  Review Gruntfile.js for available tasks.
+
+  * grunt watch
   
 ## List of todo items:
 
