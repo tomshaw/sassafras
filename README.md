@@ -27,7 +27,7 @@
 
 ## Questions or Comments?
 
-Email: tom@urlrider.com
+Email: tom@visfx.me
 
 ## License 
 
